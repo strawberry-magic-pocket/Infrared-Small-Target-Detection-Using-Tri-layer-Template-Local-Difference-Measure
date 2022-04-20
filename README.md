@@ -1,5 +1,5 @@
 # Infrared-Small-Target-Using-Tri-layer-Template
-This repository is about my work "Infrared Small Target Using Tri-layer Template Local Difference Measure", including the link of paper, source code, and some examples of experiments.
+This repository is about my research project "Infrared Small Target Using Tri-layer Template Local Difference Measure", including the link of paper, source code, and some examples of experiments.
 
 本仓库提供论文《采用三层模板局部差异度量的红外弱小目标检测》[ ![](https://img.shields.io/badge/link-paper-blue)](https://ope.lightpublishing.cn/thesisDetails#10.37188/OPE.20223007.0869&lang=zh)的源码及测试用例。如使用本仓库所提供源码，请引用该文献。
 
